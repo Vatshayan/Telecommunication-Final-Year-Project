@@ -21,9 +21,6 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 💌 Feel free to contact me for any kind of help on any projects.
  
-### HOW TO RUN THE PROJECT
-⚡ Email me at **vatshayan007@gmail.com** to get a detailed Guide report with Code to run the project with source Code.
-
 ### 📫 HOW TO REACH ME 
 
 💬 WhatsApp: +91 9310631437 (Helping 24*7)  **[LINK](https://wa.me/message/CHWN2AHCPMAZK1)** 

@@ -1,6 +1,9 @@
 # Telecommunication-Final-Year-Project
 Telecommunication Churn Price Prediction Project. 
 
+![4D962B49-490E-497E-B91A-E26B2CB4E5A8_1_201_a](https://user-images.githubusercontent.com/28294942/151219252-be9b56ea-27cd-43d6-a3eb-33141ef89b77.jpeg)
+
+
 # Summary:
 
 Customer retention is the ability of a company or a product to retain its existing customers. This notebook proposes some propensity model that predicts the likelihood of a customer to curn from a network provider. This solution does not only entail "who" - It also entails "when".
